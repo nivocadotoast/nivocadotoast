@@ -1,4 +1,4 @@
-<h3 align="left"> Hey Visitor 👋 </h3>
+<h3 align="left"> Hey konnichiwa 👋 </h3>
 
 ---
 
